@@ -1,0 +1,3 @@
+/home/fabrizio/Desktop/ADS/babelfish-10282-fabriziofranco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/Desktop/ADS/babelfish-10282-fabriziofranco/cmake-build-debug/CMakeFiles/babelfish_10282_fabriziofranco.dir
+/home/fabrizio/Desktop/ADS/babelfish-10282-fabriziofranco/cmake-build-debug/CMakeFiles/edit_cache.dir

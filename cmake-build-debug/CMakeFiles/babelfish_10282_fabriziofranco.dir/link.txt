@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/babelfish_10282_fabriziofranco.dir/main.cpp.o  -o babelfish_10282_fabriziofranco 

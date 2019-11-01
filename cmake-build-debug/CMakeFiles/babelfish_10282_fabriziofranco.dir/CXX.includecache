@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fabrizio/Desktop/ADS/babelfish-10282-fabriziofranco/main.cpp
+iostream
+-
+map
+-
+sstream
+-
+string
+-
+
