@@ -19,7 +19,6 @@ int main(){
 
         dictionary[strange] = english;
     }
-    cout<<endl;
 
     while(cin>>strange){
         if(dictionary.find(strange)==dictionary.end())
